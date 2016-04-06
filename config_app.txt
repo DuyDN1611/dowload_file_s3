@@ -1,1 +1,12 @@
-/home/ubuntu/apache-tomcat-7.0.68/bin/catalina-tasks.xml/home/ubuntu/apache-tomcat-7.0.68/bin/catalina-tasks.xmlConfig app:===/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/messages.properties/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/log4j.properties/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/messages.properties/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/log4j.properties===Tomcat version:Java version: 
+/home/ubuntu/apache-tomcat-7.0.68/bin/catalina-tasks.xml
+/home/ubuntu/apache-tomcat-7.0.68/bin/catalina-tasks.xml
+Config app:
+===
+
+/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/messages.properties
+/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/log4j.properties
+/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/messages.properties
+/home/ubuntu/apache-tomcat-7.0.68/webapps/spring-music/WEB-INF/classes/log4j.properties
+===
+Tomcat version:
+Java version: 
